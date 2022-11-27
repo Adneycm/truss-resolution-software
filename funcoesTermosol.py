@@ -29,6 +29,7 @@ geraSaida(nome,Ft,Ut,Epsi,Fi,Ti)
 -------------------------------------------------------------------------------
 
 """
+
 def plota(N,Inc):
     # Numero de membros
     nm = len(Inc[:,0])
